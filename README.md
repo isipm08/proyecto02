@@ -18,6 +18,9 @@ Incluir una reflexión semiótica y sobre a la percepción de las cosas. No solo
 trabajo 
 
 el HTML se tiene que llamar index 
+
 readme.md 
+
 archivo java
+
 archivo css
